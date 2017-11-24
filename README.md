@@ -1,2 +1,3 @@
 # TetrisBot
-A very simple python Tetris bot
+A very simple python Tetris bot using Python
+
